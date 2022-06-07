@@ -1,2 +1,2 @@
 # README #
-git commit -m
+This is my first push pull attemp
